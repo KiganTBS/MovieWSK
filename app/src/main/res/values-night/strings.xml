@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_signup">SignUp</string>
+    <string name="button_signup">SignUp</string>
+    <string name="tv_forgot_password">Forgot password?</string>
+</resources>

@@ -3,8 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/kigan/AndroidStudioProjects/MovieWSK/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/kigan/AndroidStudioProjects/MovieWSK/app/src/main/res/drawable/video_svgrepo_com.xml" value="0.37395833333333334" />
+        <entry key="..\:/Users/kigan/AndroidStudioProjects/MovieWSK/app/src/main/res/layout/activity_home.xml" value="0.19947916666666668" />
         <entry key="..\:/Users/kigan/AndroidStudioProjects/MovieWSK/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/kigan/AndroidStudioProjects/MovieWSK/app/src/main/res/layout/activity_movie_list.xml" value="0.19947916666666668" />
         <entry key="..\:/Users/kigan/AndroidStudioProjects/MovieWSK/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/Users/kigan/AndroidStudioProjects/MovieWSK/app/src/main/res/layout/fragment_dashboard.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/kigan/AndroidStudioProjects/MovieWSK/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/kigan/AndroidStudioProjects/MovieWSK/app/src/main/res/layout/fragment_notifications.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/kigan/AndroidStudioProjects/MovieWSK/app/src/main/res/layout/movie_item.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/kigan/AndroidStudioProjects/MovieWSK/app/src/main/res/layout/movie_list_activity.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/kigan/AndroidStudioProjects/MovieWSK/app/src/main/res/menu/bottom_nav_menu.xml" value="0.203125" />
       </map>
     </option>
   </component>
